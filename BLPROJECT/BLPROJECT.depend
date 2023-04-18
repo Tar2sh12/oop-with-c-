@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1661172421 source:c:\users\youssef ahmed\desktop\bl project\blproject\main.cpp
+	<iostream>
+	"BLCLASS.h"
+	<conio.h>
+	<windows.h>
+
+1661172990 c:\users\youssef ahmed\desktop\bl project\blproject\include\blclass.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1661175654 source:c:\users\youssef ahmed\desktop\bl project\blproject\src\blclass.cpp
+	"BLCLASS.h"
+	<string>
+
+1661172421 source:c:\users\youssef ahmed\desktop\new folder (5)\bl project\blproject\main.cpp
+	<iostream>
+	"BLCLASS.h"
+	<conio.h>
+	<windows.h>
+
+1661172990 c:\users\youssef ahmed\desktop\new folder (5)\bl project\blproject\include\blclass.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1661175654 source:c:\users\youssef ahmed\desktop\new folder (5)\bl project\blproject\src\blclass.cpp
+	"BLCLASS.h"
+	<string>
+
+1661172421 source:d:\new folder (5)\bl project\blproject\main.cpp
+	<iostream>
+	"BLCLASS.h"
+	<conio.h>
+	<windows.h>
+
+1661172990 d:\new folder (5)\bl project\blproject\include\blclass.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1661175654 source:d:\new folder (5)\bl project\blproject\src\blclass.cpp
+	"BLCLASS.h"
+	<string>
+
+1661172421 source:d:\my files\bl project\blproject\main.cpp
+	<iostream>
+	"BLCLASS.h"
+	<conio.h>
+	<windows.h>
+
+1661172990 d:\my files\bl project\blproject\include\blclass.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1661175654 source:d:\my files\bl project\blproject\src\blclass.cpp
+	"BLCLASS.h"
+	<string>
+
+1661172421 source:d:\msp_workshop\msp project\blproject\main.cpp
+	<iostream>
+	"BLCLASS.h"
+	<conio.h>
+	<windows.h>
+
+1661172990 d:\msp_workshop\msp project\blproject\include\blclass.h
+	<iostream>
+	<string>
+	<windows.h>
+
+1661175654 source:d:\msp_workshop\msp project\blproject\src\blclass.cpp
+	"BLCLASS.h"
+	<string>
+
